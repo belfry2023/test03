@@ -57,8 +57,6 @@ build CMakeFiles/test03.dir/Core/Src/main.c.obj: C_COMPILER__test03_unscanned_De
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/gpio.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/gpio.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -68,8 +66,6 @@ build CMakeFiles/test03.dir/Core/Src/gpio.c.obj: C_COMPILER__test03_unscanned_De
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/freertos.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/freertos.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -79,8 +75,6 @@ build CMakeFiles/test03.dir/Core/Src/freertos.c.obj: C_COMPILER__test03_unscanne
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/can.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/can.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -90,8 +84,6 @@ build CMakeFiles/test03.dir/Core/Src/can.c.obj: C_COMPILER__test03_unscanned_Deb
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/stm32f4xx_it.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/stm32f4xx_it.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -101,8 +93,6 @@ build CMakeFiles/test03.dir/Core/Src/stm32f4xx_it.c.obj: C_COMPILER__test03_unsc
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/stm32f4xx_hal_msp.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/stm32f4xx_hal_msp.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -112,8 +102,6 @@ build CMakeFiles/test03.dir/Core/Src/stm32f4xx_hal_msp.c.obj: C_COMPILER__test03
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/stm32f4xx_hal_timebase_tim.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -123,8 +111,6 @@ build CMakeFiles/test03.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj: C_COMPILE
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/sysmem.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/sysmem.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -134,8 +120,6 @@ build CMakeFiles/test03.dir/Core/Src/sysmem.c.obj: C_COMPILER__test03_unscanned_
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/Core/Src/syscalls.c.obj: C_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/Core/Src/syscalls.c || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -145,8 +129,6 @@ build CMakeFiles/test03.dir/Core/Src/syscalls.c.obj: C_COMPILER__test03_unscanne
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 build CMakeFiles/test03.dir/startup_stm32f407xx.s.obj: ASM_COMPILER__test03_unscanned_Debug D$:/stm32prj/test03/startup_stm32f407xx.s || cmake_object_order_depends_target_test03
   CONFIG = Debug
@@ -156,8 +138,6 @@ build CMakeFiles/test03.dir/startup_stm32f407xx.s.obj: ASM_COMPILER__test03_unsc
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
-  TARGET_PDB = test03.pdb
 
 
 # =============================================================================
@@ -173,11 +153,10 @@ build test03.elf: C_EXECUTABLE_LINKER__test03_Debug cmake/stm32cubemx/CMakeFiles
   LINK_LIBRARIES = -l:libarm_cortexM4lf_math.a
   LINK_PATH = -LD:/stm32prj/test03/Middlewares/ST/ARM/DSP/Lib
   OBJECT_DIR = CMakeFiles\test03.dir
-  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D D:\stm32prj\test03\build && D:\CMake\bin\cmake.exe -E echo "Building test03" && D:\CMake\bin\cmake.exe -E echo "Generating ELF file: test03.elf" && D:\CMake\bin\cmake.exe -E echo "Generating HEX file: test03.hex" && arm-none-eabi-objcopy.exe -O ihex test03.elf test03.hex && D:\CMake\bin\cmake.exe -E echo "Build complete!" && D:\CMake\bin\cmake.exe -E echo "Flashing test03.hex to the device" && jflash.exe -openprj D:/stm32prj/test03/stm32.jflash -open test03.hex, -6000000 -auto -startapp -exit && D:\CMake\bin\cmake.exe -E echo "Flashing complete!""
+  POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D D:\stm32prj\test03\build && D:\CMake\bin\cmake.exe -E echo "Building test03" && D:\CMake\bin\cmake.exe -E echo "Generating ELF file: test03.elf" && D:\CMake\bin\cmake.exe -E echo "Generating HEX file: test03.hex" && arm-none-eabi-objcopy.exe -O ihex test03.elf test03.hex && D:\CMake\bin\cmake.exe -E echo "Build complete!" && D:\CMake\bin\cmake.exe -E echo "Flashing test03.hex to the device" && jflash.exe -openprj D:/stm32prj/test03/stm32.jflash -open test03.hex, -8000000 -auto -startapp && D:\CMake\bin\cmake.exe -E echo "Flashing complete!""
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
   TARGET_FILE = test03.elf
-  TARGET_PDB = test03.pdb
+  TARGET_PDB = test03.elf.dbg
 
 
 #############################################
@@ -225,8 +204,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Core\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -236,8 +213,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -247,8 +222,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -258,8 +231,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -269,8 +240,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -280,8 +249,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -291,8 +258,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -302,8 +267,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -313,8 +276,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -324,8 +285,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -335,8 +294,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -346,8 +303,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -357,8 +312,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -368,8 +321,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -379,8 +330,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -390,8 +339,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
@@ -401,8 +348,6 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 
 
@@ -428,8 +373,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -439,8 +382,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/list.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -450,8 +391,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/queue.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -461,8 +400,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -472,8 +409,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/tasks.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -483,8 +418,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/timers.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -494,8 +427,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -505,8 +436,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -516,8 +445,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: C_COMPILER__FreeRTOS_unscanned_Debug D$:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c || cmake_object_order_depends_target_FreeRTOS
   CONFIG = Debug
@@ -527,8 +454,6 @@ build cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/Fr
   INCLUDES = -ID:/stm32prj/test03/Core/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/stm32prj/test03/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/include -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -ID:/stm32prj/test03/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -ID:/stm32prj/test03/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/stm32prj/test03/Drivers/CMSIS/Include -ID:/stm32prj/test03/Middlewares/ST/ARM/DSP/Inc
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\__\__\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\FreeRTOS.dir\
-  TARGET_PDB = ""
 
 
 
@@ -594,14 +519,14 @@ build cmake/stm32cubemx/all: phony cmake/stm32cubemx/STM32_Drivers cmake/stm32cu
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja D$:/stm32prj/test03/build/cmake_install.cmake D$:/stm32prj/test03/build/cmake/stm32cubemx/cmake_install.cmake: RERUN_CMAKE | CMakeCache.txt CMakeFiles/4.0.0/CMakeASMCompiler.cmake CMakeFiles/4.0.0/CMakeCCompiler.cmake CMakeFiles/4.0.0/CMakeCXXCompiler.cmake CMakeFiles/4.0.0/CMakeSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeASMCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeASMInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c D$:/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp D$:/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineASMCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeNinjaFindMake.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystem.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestASMCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectASMLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake D$:/CMake/share/cmake-4.0/Modules/Platform/Generic.cmake D$:/stm32prj/test03/CMakeLists.txt D$:/stm32prj/test03/cmake/gcc-arm-none-eabi.cmake D$:/stm32prj/test03/cmake/stm32cubemx/CMakeLists.txt
+build build.ninja D$:/stm32prj/test03/build/cmake_install.cmake D$:/stm32prj/test03/build/cmake/stm32cubemx/cmake_install.cmake: RERUN_CMAKE | CMakeCache.txt CMakeFiles/4.0.0/CMakeASMCompiler.cmake CMakeFiles/4.0.0/CMakeCCompiler.cmake CMakeFiles/4.0.0/CMakeCXXCompiler.cmake CMakeFiles/4.0.0/CMakeSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeASMInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Platform/Generic.cmake D$:/stm32prj/test03/CMakeLists.txt D$:/stm32prj/test03/cmake/gcc-arm-none-eabi.cmake D$:/stm32prj/test03/cmake/stm32cubemx/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/4.0.0/CMakeASMCompiler.cmake CMakeFiles/4.0.0/CMakeCCompiler.cmake CMakeFiles/4.0.0/CMakeCXXCompiler.cmake CMakeFiles/4.0.0/CMakeSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeASMCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeASMInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c D$:/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp D$:/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineASMCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeNinjaFindMake.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystem.cmake.in D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestASMCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectASMLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake D$:/CMake/share/cmake-4.0/Modules/Platform/Generic.cmake D$:/stm32prj/test03/CMakeLists.txt D$:/stm32prj/test03/cmake/gcc-arm-none-eabi.cmake D$:/stm32prj/test03/cmake/stm32cubemx/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/4.0.0/CMakeASMCompiler.cmake CMakeFiles/4.0.0/CMakeCCompiler.cmake CMakeFiles/4.0.0/CMakeCXXCompiler.cmake CMakeFiles/4.0.0/CMakeSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeASMInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake D$:/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-C.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake D$:/CMake/share/cmake-4.0/Modules/Compiler/GNU.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake D$:/CMake/share/cmake-4.0/Modules/Platform/Generic.cmake D$:/stm32prj/test03/CMakeLists.txt D$:/stm32prj/test03/cmake/gcc-arm-none-eabi.cmake D$:/stm32prj/test03/cmake/stm32cubemx/CMakeLists.txt: phony
 
 
 #############################################

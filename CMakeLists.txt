@@ -81,6 +81,6 @@ ADD_CUSTOM_COMMAND(
     COMMAND ${OBJCOPY} -O ihex ${ELFFILE} ${HEXFILE}
     COMMAND ${CMAKE_COMMAND} -E echo "Build complete!"
     COMMAND ${CMAKE_COMMAND} -E echo "Flashing ${HEXFILE} to the device"
-    COMMAND ${JFLASH} -openprj ${CMAKE_SOURCE_DIR}/stm32.jflash -open ${HEXFILE}, -6000000 -auto -startapp -exit
+    COMMAND ${JFLASH} -openprj ${CMAKE_SOURCE_DIR}/stm32.jflash -open ${HEXFILE}, -8000000 -auto -startapp -exit
     COMMAND ${CMAKE_COMMAND} -E echo "Flashing complete!"
 )

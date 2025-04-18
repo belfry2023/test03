@@ -47,11 +47,55 @@ target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
 
 # Add sources to executable
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE
+Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT_printf.c
+Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT.c
+Bsp/can/bsp_can.c
+Bsp/dwt/bsp_dwt.c
+Bsp/usart/bsp_usart.c
+Bsp/log/bsp_log.c
+Bsp/bsp_tools.c
+Modules/algorithm/controller.c
+Modules/algorithm/crc8.c
+Modules/algorithm/crc16.c
+Modules/algorithm/kalman_filter.c
+Modules/algorithm/QuaternionEKF.c
+Modules/algorithm/user_lib.c
+Modules/DJImotor/dji_motor.c
+Modules/DJImotor/motor_task.c
+Modules/imu/BMI088driver.c
+Modules/imu/BMI088Middleware.c
+Modules/imu/ins_task.c
+Modules/message_center/message_center.c
+Modules/remote/remote_control.c
+Modules/daemon/daemon.c
+Modules/vision/master_process.c
+Modules/vision/seasky_protocol.c
+Application/car/car.c
+Application/cmd/cmd.c
+Application/startup.c
     # Add user sources here
 )
 
 # Add include paths
 target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
+Middlewares/Third_Party/SEGGER/Config
+Middlewares/Third_Party/SEGGER/RTT
+Bsp
+Bsp/can
+Bsp/dwt
+Bsp/usart
+Bsp/log
+Modules
+Modules/algorithm
+Modules/DJImotor
+Modules/imu
+Modules/message_center
+Modules/remote
+Modules/daemon
+Modules/vision
+Application
+Application/car
+Application/cmd
     # Add user defined include paths
 )
 

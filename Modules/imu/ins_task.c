@@ -12,14 +12,17 @@
  ******************************************************************************
  */
 #include "ins_task.h"
-#include "controller.h"
 #include "QuaternionEKF.h"
 #include "spi.h"
 #include "user_lib.h"
 #include "general_def.h"
-
+#include "master_process.h"
+#include "bsp_log.h"
+#include "stdint.h"
+#include "bsp_dwt.h"
 static INS_t INS;
 static IMU_Param_t IMU_Param;
+
 
 const float xb[3] = {1, 0, 0};
 const float yb[3] = {0, 1, 0};
@@ -28,8 +31,15 @@ const float zb[3] = {0, 0, 1};
 // 用于获取两次采样之间的时间间隔
 static uint32_t INS_DWT_Count = 0;
 static float dt = 0, t = 0;
+static float RefTemp = 40; // 恒温设定温度
 
 static void IMU_Param_Correction(IMU_Param_t *param, float gyro[3], float accel[3]);
+
+
+/**
+ * @brief 温度控制
+ *
+ */
 
 // 使用加速度计的数据初始化Roll和Pitch,而Yaw置0,这样可以避免在初始时候的姿态估计误差
 static void InitQuaternion(float *init_q4)
@@ -65,6 +75,7 @@ attitude_t *INS_Init(void)
     else
         return (attitude_t *)&INS.Gyro;
 
+
     while (BMI088Init(&hspi1, 1) != BMI088_NO_ERROR)
         ;
     IMU_Param.scale[X] = 1;
@@ -78,6 +89,7 @@ attitude_t *INS_Init(void)
     float init_quaternion[4] = {0};
     InitQuaternion(init_quaternion);
     IMU_QuaternionEKF_Init(init_quaternion, 10, 0.001, 1000000, 1, 0);
+    // imu heat init
 
     // noise of accel is relatively big and of high freq,thus lpf is used
     INS.AccelLPF = 0.0085;
@@ -139,6 +151,11 @@ void INS_Task(void)
 
         VisionSetAltitude(INS.Yaw, INS.Pitch, INS.Roll);
     }
+
+    // temperature control
+    
+
+    
 
     if ((count++ % 1000) == 0)
     {

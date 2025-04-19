@@ -1,5 +1,5 @@
-#ifndef BMI088REG_H
-#define BMI088REG_H
+#ifndef BMI088_REG_H
+#define BMI088_REG_H
 
 #define BMI088_ACC_CHIP_ID 0x00 // the register is  " Who am I "
 #define BMI088_ACC_CHIP_ID_VALUE 0x1E

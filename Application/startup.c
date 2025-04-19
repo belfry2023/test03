@@ -9,6 +9,7 @@ void CarInit()
     __disable_irq();
     
     DWT_Init(168);
+    BSPLogInit();
     cmd_task_init();
 	car_task_init();
     OSTaskInit();

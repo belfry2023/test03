@@ -1,6 +1,6 @@
-#include "BMI088driver.h"
-#include "BMI088reg.h"
-#include "BMI088Middleware.h"
+#include "BMI088_driver.h"
+#include "BMI088_reg.h"
+#include "BMI088.h"
 #include "bsp_dwt.h"
 #include "bsp_log.h"
 #include <math.h>
@@ -130,7 +130,6 @@ void Calibrate_MPU_Offset(IMU_Data_t *bmi088)
     {
         if (DWT_GetTimeline_s() - startTime > 12)
         {
-            // ��????
             bmi088->GyroOffset[0] = GxOFFSET;
             bmi088->GyroOffset[1] = GyOFFSET;
             bmi088->GyroOffset[2] = GzOFFSET;
@@ -203,9 +202,9 @@ void Calibrate_MPU_Offset(IMU_Data_t *bmi088)
             for (uint8_t j = 0; j < 3; ++j)
                 gyroDiff[j] = gyroMax[j] - gyroMin[j];
             if (gNormDiff > 0.5f ||
-                gyroDiff[0] > 0.15f ||
-                gyroDiff[1] > 0.15f ||
-                gyroDiff[2] > 0.15f)
+                gyroDiff[0] > 0.3f ||
+                gyroDiff[1] > 0.3f ||
+                gyroDiff[2] > 0.3f)
             {
                 LOGWARNING("[bmi088] calibration was interrupted\n");
                 break;
@@ -227,9 +226,9 @@ void Calibrate_MPU_Offset(IMU_Data_t *bmi088)
         caliCount++;
     } while (gNormDiff > 0.5f ||
              fabsf(bmi088->gNorm - 9.8f) > 0.5f ||
-             gyroDiff[0] > 0.15f ||
-             gyroDiff[1] > 0.15f ||
-             gyroDiff[2] > 0.15f ||
+             gyroDiff[0] > 0.3f ||
+             gyroDiff[1] > 0.3f ||
+             gyroDiff[2] > 0.3f ||
              fabsf(bmi088->GyroOffset[0]) > 0.01f ||
              fabsf(bmi088->GyroOffset[1]) > 0.01f ||
              fabsf(bmi088->GyroOffset[2]) > 0.01f);

@@ -62,8 +62,8 @@ Modules/algorithm/QuaternionEKF.c
 Modules/algorithm/user_lib.c
 Modules/DJImotor/dji_motor.c
 Modules/DJImotor/motor_task.c
-Modules/imu/BMI088driver.c
-Modules/imu/BMI088Middleware.c
+Modules/imu/BMI088_driver.c
+Modules/imu/BMI088.c
 Modules/imu/ins_task.c
 Modules/message_center/message_center.c
 Modules/remote/remote_control.c

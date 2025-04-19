@@ -1,5 +1,5 @@
-#ifndef BMI088DRIVER_H
-#define BMI088DRIVER_H
+#ifndef BMI088_DRIVER_H
+#define BMI088_DRIVER_H
 
 #include "stdint.h"
 #include "main.h"
